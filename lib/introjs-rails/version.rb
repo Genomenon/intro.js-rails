@@ -1,5 +1,5 @@
 module Introjs
   module Rails
-    VERSION = "1.0.0"
+    VERSION = "3.4.0"
   end
 end
